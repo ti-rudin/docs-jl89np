@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-1iteax.indocuanwin.site/sitemap.xml
